@@ -1,0 +1,32 @@
+{
+  "id": "3CC47A09-8083-48B7-9626-5317A5605C80",
+  "name": "Community Code Lab",
+  "publisher": "Saurav Dhyani",
+  "version": "1.0.0.0",
+  "brief": "Community Code Lab is a personal repository.",
+  "description": "Community Code Lab is a personal repository of all my learning and experiments with Microsoft Dynamics 365 Business Central and AL language.",
+  "privacyStatement": "",
+  "EULA": "https://www.edhateconsulting.com",
+  "help": "https://www.edhateconsulting.com",
+  "url": "https://www.edhateconsulting.com",
+  "logo": ".logo/Logo.png",  
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

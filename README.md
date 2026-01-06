@@ -6,7 +6,9 @@ This repository is organized by **functional areas** to make navigation simple a
 ## Repository Structure
 
 | Area | Description |
-|------|-------------|
+|-------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [Code Using Query](./Query-Based%20Consolidation/README.md) | Consolidate Business Central data using Query Objects with grouping and aggregation. |
+| [Item Template Attribute](./Item%20Template%20Attributes/README.md) | Enables defining Item Attributes at template level. |
 ---
 ## Intended Audience
 
